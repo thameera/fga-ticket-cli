@@ -26,8 +26,6 @@ const main = async () => {
     )
     .help()
     .parse();
-
-  console.log("Exiting");
 };
 
 main();
